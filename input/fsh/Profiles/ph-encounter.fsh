@@ -1,4 +1,4 @@
-Profile: PHEncounterProfile
+Profile: PHEncounter
 Parent: Encounter
 Id: ph-encounter
 Title: "PH Encounter"

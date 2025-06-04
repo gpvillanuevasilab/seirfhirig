@@ -1,7 +1,7 @@
 Profile: PHLocation
 Parent: Location
 Id: ph-location-
-Title: "PH Location "
+Title: "PH Location"
 Description: "Location resource specific to Philippine context."
 * ^url = "urn://example.com.ph/StructureDefinition/PHLocation"
 * identifier 1..*
